@@ -41,7 +41,7 @@ To get started with the Face Recognition Tool locally, follow these steps:
    ```bash
    https://github.com/Chitresh-code/GDSC-GNIOT-Completion-Tracker.git
 
-2. Get your training and testing data or use the data in the ![sample_data]() folder
+2. Get your training and testing data or use the data in the [sample_data]() folder
 3. Create your project directories
 	  ```bash
 	PS> mkdir face_recognizer
